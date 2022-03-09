@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ManaGroup",
+    "description": "",
+    "home_page_url": "https://renaceruk.github.io/managroup-website",
+    "feed_url": "https://renaceruk.github.io/managroup-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ManaGroup"
+    },
+    "items": [
+        {
+            "id": "https://renaceruk.github.io/managroup-website/post-1-test.html",
+            "url": "https://renaceruk.github.io/managroup-website/post-1-test.html",
+            "title": "Post 1 test",
+            "summary": "Hi :)",
+            "content_html": "<p>Hi :)</p>",
+            "author": {
+                "name": "ManaGroup"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-09T15:51:52+00:00",
+            "date_modified": "2022-03-09T15:51:52+00:00"
+        }
+    ]
+}

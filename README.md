@@ -1,2 +1,0 @@
-# managroup-website
-ManaGroup Website

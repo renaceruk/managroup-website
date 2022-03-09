@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ManaGroup</title>
+    <link href="https://renaceruk.github.io/managroup-website/feed.xml" rel="self" />
+    <link href="https://renaceruk.github.io/managroup-website" />
+    <updated>2022-03-09T15:51:52+00:00</updated>
+    <author>
+        <name>ManaGroup</name>
+    </author>
+    <id>https://renaceruk.github.io/managroup-website</id>
+
+    <entry>
+        <title>Post 1 test</title>
+        <author>
+            <name>ManaGroup</name>
+        </author>
+        <link href="https://renaceruk.github.io/managroup-website/post-1-test.html"/>
+        <id>https://renaceruk.github.io/managroup-website/post-1-test.html</id>
+
+        <updated>2022-03-09T15:51:52+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi :)</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
